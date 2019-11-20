@@ -1,4 +1,4 @@
-package edu.nwmissouri.isl;
+package edu.nwmissouri.vinay;
 
 // imports
 import org.apache.spark.SparkConf;
